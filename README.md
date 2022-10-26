@@ -1,4 +1,6 @@
-# CoffeeMath v1.5.1
+# CoffeeMath v0.0
+
+Based on CoffeeMath 1.5.1
 
 CoffeeMath is a simple tool to give people a short burst of math practice in the morning or whenever you want to hone your mathematical skills 
 
