@@ -5,7 +5,7 @@ import Quiz from './js/Quiz.js';
 //*************
 
 
-
+/* //disable PWA service worker
 function enablePWAFunctionality() {
     // registers service worker
     if ('serviceWorker' in navigator) {
@@ -43,6 +43,8 @@ function enablePWAFunctionality() {
     });
 }
 enablePWAFunctionality();
+//end service eorker section of code
+*/
 
 // Set up Settings DB
 console.log('*****Begin Datalayer section*******');
