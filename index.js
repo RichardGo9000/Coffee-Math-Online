@@ -43,7 +43,8 @@ function enablePWAFunctionality() {
         });
     });
 }
-enablePWAFunctionality();
+// DISABLING PWA FUNCTIONALITY FOR ONLY ONLY VERSION  APP2SITECONVERSION 1of2
+// enablePWAFunctionality();
 
 // Set up Settings DB
 console.log('*****Begin Datalayer section*******');
