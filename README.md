@@ -1,4 +1,4 @@
-# CoffeeMath v0.0.1
+# CoffeeMathOnline v0.0.1
 
 Imported from CoffeeMath v1.5.1 with 2 changed (disable PWAfunctionality method in index.js, and change link in index.html
 
