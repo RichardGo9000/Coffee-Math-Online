@@ -1,4 +1,6 @@
-# CoffeeMath v1.5.1
+# CoffeeMath v0.0.1
+
+Imported from CoffeeMath v1.5.1 with 2 changed (disable PWAfunctionality method in index.js, and change link in index.html
 
 CoffeeMath is a simple tool to give people a short burst of math practice in the morning or whenever you want to hone your mathematical skills 
 
